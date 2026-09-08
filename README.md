@@ -11,10 +11,10 @@ I'm currently working on:
 
 ##
 <a href="https://github.com/Fixit-Davide/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=giafranchini&show_icons=true&theme=dracula&rank_icon=github&count_private=true" />
+  <img height=150 align="center" src="https://github-stats-extended.vercel.app/api?username=giafranchini&show_icons=true&theme=dracula&rank_icon=github&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=giafranchini&layout=compact&langs_count=8&card_width=310&theme=dracula" />
+  <img height=150 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=giafranchini&layout=compact&langs_count=8&card_width=310&theme=dracula" />
 </a>
 
 <!--[![Giacomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giafranchini&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giafranchini&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
